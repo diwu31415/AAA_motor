@@ -27,7 +27,7 @@ If other versions of Python and packages are already installed, please use virtu
 The code can be obtained by running:
 
 ```bash
-$ git clone https://github.com/diwu31415/ATPase_motor
+$ git clone https://github.com/diwu31415/AAA_motor
 ```
 
 or simply click "Code -> Download Zip" on this page.
